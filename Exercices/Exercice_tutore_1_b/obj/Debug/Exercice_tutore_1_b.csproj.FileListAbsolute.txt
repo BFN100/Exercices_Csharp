@@ -1,0 +1,8 @@
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\bin\Debug\Exercice_tutore_1_b.exe.config
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\bin\Debug\Exercice_tutore_1_b.exe
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\bin\Debug\Exercice_tutore_1_b.pdb
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\obj\Debug\Exercice_tutore_1_b.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\obj\Debug\Exercice_tutore_1_b.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\obj\Debug\Exercice_tutore_1_b.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\obj\Debug\Exercice_tutore_1_b.exe
+C:\Users\bianc\OneDrive\Documents\Des classes\Troisième session\tutoré\Exercice_tutore_1\Exercice_tutore_1_b\obj\Debug\Exercice_tutore_1_b.pdb
